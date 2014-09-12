@@ -1,0 +1,19 @@
+{
+  "name": "inflector",
+  "main": "inflector.js",
+  "version": "0.0.0",
+  "authors": [
+    "Arnon Eilat <Arnon.Eilat@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
