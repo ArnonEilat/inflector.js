@@ -1,11 +1,11 @@
 {
-  "name": "inflector",
+  "name": "inflector.js",
   "version": "1.0.0",
   "description": "",
   "directories": {
     "test": "test"
   },
-  "author": "",
+  "author": "Arnon Eilat",
   "license": "ISC",
   "devDependencies": {
     "chai": "^1.9.1",

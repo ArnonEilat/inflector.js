@@ -1,19 +1,25 @@
 {
-  "name": "inflector",
-  "main": "inflector.js",
-  "version": "0.0.0",
-  "authors": [
-    "Arnon Eilat <Arnon.Eilat@gmail.com>"
-  ],
-  "moduleType": [
-    "globals"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+    "name": "inflector",
+    "version": "0.0.0",
+    "description": "inflector to pluralize/singularize words.",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:ArnonEilat/inflector.js.git"
+    },
+    "main": "dist/inflector.min.js",
+    "authors": [
+        "Arnon Eilat <Arnon.Eilat@gmail.com>"
+    ],
+    "moduleType": [
+        "globals"
+    ],
+    "license": "MIT",
+    "keywords": ["inflector", "english"],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
 }
